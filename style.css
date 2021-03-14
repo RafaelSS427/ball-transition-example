@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+html, body{
+    background-color: #001f3f;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Lobster', cursive;
+}
+
+.ball {
+    width: 200px;
+    height: 200px;
+    background: #01FF70;
+    border-radius: 50%;
+    transition: all 500ms ease;
+}
